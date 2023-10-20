@@ -6,6 +6,25 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+img {
+    max-width: 50%;
+}
+
+#indexImg {
+    max-width: 100%;
+}
+
+#ingredients {
+    color: #fff;
+    background-color: #000;
+    font-style: italic;
+    max-width: 50%;
+}
+
+ol {
+    background-color: #0ff;
+}
+
 a {
     color: #000;
 }
